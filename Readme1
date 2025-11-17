@@ -1,3 +1,4 @@
+Day-07 -- Task with Systemlogs
 sudo apt install tree
 2025-11-17T09:20:51.229058+00:00 DESKTOP-O0H15PO polkitd[2840]: Started polkitd version 124
 2025-11-17T09:20:51.248603+00:00 DESKTOP-O0H15PO dbus-daemon[185]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
@@ -22,3 +23,26 @@ tree /
 2025-11-17T09:32:51.130315+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
 2025-11-17T09:32:51.130353+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
 2025-11-17T09:33:05.852512+00:00 DESKTOP-O0H15PO systemd-resolved[120]: Clock change detected. Flushing caches.
+
+mkdir js1
+2025-11-17T09:34:51.181165+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+2025-11-17T09:34:51.183684+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/91966/.ubuntupro/.address": open /mnt/c/Users/91966/.ubuntupro/.address: no such file or directory
+2025-11-17T09:34:51.184020+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+
+echo "Hello World"
+2025-11-17T09:38:05.612002+00:00 DESKTOP-O0H15PO systemd-resolved[120]: Clock change detected. Flushing caches.
+
+touch projects/app.py
+2025-11-17T09:38:51.125751+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/91966/.ubuntupro/.address": open /mnt/c/Users/91966/.ubuntupro/.address: no such file or directory
+2025-11-17T09:38:51.126019+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+
+rm -r shetty1
+2025-11-17T09:49:50.546012+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+2025-11-17T09:49:50.546733+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+2025-11-17T09:50:04.317801+00:00 DESKTOP-O0H15PO systemd-resolved[120]: Clock change detected. Flushing caches.
+
+ls -l
+2025-11-17T10:11:03.868190+00:00 DESKTOP-O0H15PO systemd-resolved[120]: Clock change detected. Flushing caches.
+
+sudo chown root js1/data
+2025-11-17T10:20:03.741973+00:00 DESKTOP-O0H15PO systemd-resolved[120]: Clock change detected. Flushing caches.
