@@ -1,3 +1,4 @@
+sudo apt install tree
 2025-11-17T09:20:51.229058+00:00 DESKTOP-O0H15PO polkitd[2840]: Started polkitd version 124
 2025-11-17T09:20:51.248603+00:00 DESKTOP-O0H15PO dbus-daemon[185]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
 2025-11-17T09:20:51.248789+00:00 DESKTOP-O0H15PO systemd[1]: Started polkit.service - Authorization Manager.
