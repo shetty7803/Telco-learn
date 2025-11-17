@@ -1,0 +1,18 @@
+2025-11-17T09:20:51.229058+00:00 DESKTOP-O0H15PO polkitd[2840]: Started polkitd version 124
+2025-11-17T09:20:51.248603+00:00 DESKTOP-O0H15PO dbus-daemon[185]: [system] Successfully activated service 'org.freedesktop.PolicyKit1'
+2025-11-17T09:20:51.248789+00:00 DESKTOP-O0H15PO systemd[1]: Started polkit.service - Authorization Manager.
+2025-11-17T09:20:51.312490+00:00 DESKTOP-O0H15PO dbus-daemon[185]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+2025-11-17T09:20:51.312777+00:00 DESKTOP-O0H15PO systemd[1]: Started packagekit.service - PackageKit Daemon.
+2025-11-17T09:21:05.535757+00:00 DESKTOP-O0H15PO systemd-resolved[120]: Clock change detected. Flushing caches.
+2025-11-17T09:21:35.506006+00:00 DESKTOP-O0H15PO systemd-resolved[120]: Clock change detected. Flushing caches.
+2025-11-17T09:21:50.207819+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+2025-11-17T09:21:50.207988+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+2025-11-17T09:21:50.208681+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/91966/.ubuntupro/.address": open /mnt/c/Users/91966/.ubuntupro/.address: no such file or directory
+2025-11-17T09:21:50.208782+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
+2025-11-17T09:21:50.208988+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[37mDEBUG#033[0m Updated systemd status to "Not connected: waiting to retry"
+2025-11-17T09:22:05.437255+00:00 DESKTOP-O0H15PO systemd-resolved[120]: Clock change detected. Flushing caches.
+2025-11-17T09:22:35.446652+00:00 DESKTOP-O0H15PO systemd-resolved[120]: Clock change detected. Flushing caches.
+2025-11-17T09:22:50.199759+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[36mINFO#033[0m Daemon: connecting to Windows Agent
+2025-11-17T09:22:50.200011+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[37mDEBUG#033[0m Updated systemd status to "Connecting"
+2025-11-17T09:22:50.200613+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[33mWARNING#033[0m Daemon: could not connect to Windows Agent: could not get address: could not read agent port file "/mnt/c/Users/91966/.ubuntupro/.address": open /mnt/c/Users/91966/.ubuntupro/.address: no such file or directory
+2025-11-17T09:22:50.200683+00:00 DESKTOP-O0H15PO wsl-pro-service[208]: #033[36mINFO#033[0m Reconnecting to Windows host in 60 seconds
