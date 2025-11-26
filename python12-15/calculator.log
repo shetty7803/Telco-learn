@@ -1,0 +1,34 @@
+2025-11-25 14:54:51,749 - INFO - Calculator called with a=1.0, b=0.0, operation='+'
+2025-11-25 14:54:51,750 - WARNING - Addition performed with zero value
+2025-11-25 14:54:51,750 - INFO - Addition successful: 1.0 + 0.0 = 1.0
+2025-11-25 14:55:20,422 - INFO - Calculator called with a=5.0, b=10.0, operation='-'
+2025-11-25 14:55:20,423 - INFO - Subtraction successful: 5.0 - 10.0 = -5.0
+2025-11-25 14:57:14,213 - INFO - Calculator called with a=5.0, b=0.0, operation='/'
+2025-11-25 14:57:14,213 - ERROR - Division by zero attempted!
+2025-11-25 14:57:24,156 - INFO - Calculator called with a=2.0, b=0.0, operation='/'
+2025-11-25 14:57:24,157 - ERROR - Division by zero attempted!
+2025-11-25 14:58:38,023 - INFO - Calculator called with a=1.0, b=0.0, operation='+'
+2025-11-25 14:58:38,025 - WARNING - Addition performed with zero value
+2025-11-25 14:58:38,025 - INFO - Addition successful: 1.0 + 0.0 = 1.0
+2025-11-25 14:58:38,025 - WARNING - Addition performed with zero value
+2025-11-25 14:58:45,817 - INFO - Calculator called with a=1.0, b=0.0, operation='+'
+2025-11-25 14:58:45,818 - WARNING - Addition performed with zero value
+2025-11-25 14:58:45,818 - INFO - Addition successful: 1.0 + 0.0 = 1.0
+2025-11-25 14:58:45,818 - WARNING - Addition performed with zero value
+2025-11-25 14:59:00,786 - INFO - Calculator called with a=0.0, b=1.0, operation='+'
+2025-11-25 14:59:00,786 - WARNING - Addition performed with zero value
+2025-11-25 14:59:00,786 - INFO - Addition successful: 0.0 + 1.0 = 1.0
+2025-11-25 14:59:00,786 - WARNING - Addition performed with zero value
+2025-11-25 15:02:21,575 - INFO - Calculator called with a=1.0, b=0.0, operation='+'
+2025-11-25 15:02:21,577 - WARNING - Addition performed with zero value
+2025-11-25 15:02:21,577 - INFO - Addition successful: 1.0 + 0.0 = 1.0
+2025-11-25 15:03:48,665 - INFO - Calculator called with a=1.0, b=0.0, operation='-'
+2025-11-25 15:03:48,665 - WARNING - Subtraction performed with zero value
+2025-11-25 15:03:48,665 - INFO - Subtraction successful: 1.0 - 0.0 = 1.0
+2025-11-25 15:04:15,615 - INFO - Calculator called with a=1.0, b=0.0, operation='-'
+2025-11-25 15:04:15,615 - WARNING - Subtraction performed with zero value
+2025-11-25 15:04:15,615 - INFO - Subtraction successful: 1.0 - 0.0 = 1.0
+2025-11-25 15:12:33,426 - INFO - Calculator called with a=0.0, b=10.0, operation='/'
+2025-11-25 15:12:33,426 - INFO - Division successful: 0.0 / 10.0 = 0.0
+2025-11-25 15:12:45,713 - INFO - Calculator called with a=10.0, b=5.0, operation='/'
+2025-11-25 15:12:45,714 - INFO - Division successful: 10.0 / 5.0 = 2.0

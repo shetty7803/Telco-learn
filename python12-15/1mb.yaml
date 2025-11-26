@@ -1,0 +1,13 @@
+employee:
+  id: 101
+  name: Jeevan Shetty
+  department: IT
+  skills:
+    - Python
+    - YAML
+    - Networking
+  address:
+    street: 12th Cross
+    city: Bangalore
+    pincode: 560001
+

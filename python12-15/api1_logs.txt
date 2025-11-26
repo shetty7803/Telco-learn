@@ -1,0 +1,1 @@
+2025-11-26 14:58:36,081 - ERROR - Non-JSON response from URL: http://www.3gpp.org/ftp/Specs/archive/24_series/24.283/
