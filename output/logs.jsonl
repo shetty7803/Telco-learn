@@ -1,0 +1,9 @@
+{"timestamp": "2025-12-12T15:10:22.912856Z", "level": "ERROR", "message": "No YAML files found in yamls/ folder"}
+{"timestamp": "2025-12-12T15:12:24.964384Z", "level": "INFO", "message": "YAML files found", "count": 5}
+{"timestamp": "2025-12-12T15:12:24.980410Z", "level": "INFO", "message": "Parsed file", "file": "TS24560_Aimlec_AimlTaskTransfer.yaml"}
+{"timestamp": "2025-12-12T15:12:25.004500Z", "level": "INFO", "message": "Parsed file", "file": "TS26512_M5_DynamicPolicies.yaml"}
+{"timestamp": "2025-12-12T15:12:25.050349Z", "level": "INFO", "message": "Parsed file", "file": "TS26512_Mas_Configuration_ContentPreparationTemplates.yaml"}
+{"timestamp": "2025-12-12T15:12:25.077816Z", "level": "INFO", "message": "Parsed file", "file": "TS28317_RanScNrm.yaml"}
+{"timestamp": "2025-12-12T15:12:25.100492Z", "level": "INFO", "message": "Parsed file", "file": "TS29222_AEF_Security_API.yaml"}
+{"timestamp": "2025-12-12T15:12:25.102403Z", "level": "INFO", "message": "metadata.json created"}
+{"timestamp": "2025-12-12T15:12:25.103404Z", "level": "INFO", "message": "summary.json created", "total_endpoints": 8}
